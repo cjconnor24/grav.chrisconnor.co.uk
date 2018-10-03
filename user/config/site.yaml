@@ -1,0 +1,55 @@
+title: 'Chris Connor - Glasgow Based Software Developer'
+default_lang: en
+author:
+  name: 'Chris Connor'
+  email: chris@chrisconnor.co.uk
+taxonomies:
+  - category
+  - tag  
+metadata:
+  description: 'Chris Connor is a Glasgow Based Software Developer'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog
+header:
+  title: 'I''m Chris Connor.'
+  description: 'I am a Glasgow based <span>Software Developer</span>,  creating awesome and effective visual identities for companies of all sizes around the globe. Let''s <a class="smoothscroll" href="#about">start scrolling</a> and learn more <a class="smoothscroll" href="#about">about me</a>.'
+copyright:
+  -
+    line: 'Copyright Chris Connor &copy;'
+  # -
+  #   line: 'Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a>'
+social:
+  -
+  #   url: '#'
+  #   icon: facebook
+  # -
+    url: 'https://www.linkedin.com/in/cjconnor24/'
+    icon: linkedin
+  -
+    url: 'https://www.twitter.com/cjconnor24'
+    icon: twitter
+  -
+    url: 'https://www.instagram.com/chris_codes'
+    icon: instagram
+  # -
+  #   url: '#'
+  #   icon: google-plus
+  # -
+  #   url: 'https://dribbble.com/cjconnor24'
+  #   icon: dribbble
+  -
+    url: 'skype:cjconnor24?chat'
+    icon: skype
+twitter:
+  id: '657554810648948736'
+  domId: tw-widget1
+  maxTweets: 3
+  enableLinks: 'true'
+  showInteraction: 'false'
+  showImages: 'false'
+  showUser: 'false'
