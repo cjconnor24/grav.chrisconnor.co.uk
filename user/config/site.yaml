@@ -17,7 +17,7 @@ blog:
   route: /blog
 header:
   title: 'I''m Chris Connor.'
-  description: 'I am a Glasgow based <span>Software Developer</span>,  creating awesome and effective visual identities for companies of all sizes around the globe. Let''s <a class="smoothscroll" href="#about">start scrolling</a> and learn more <a class="smoothscroll" href="#about">about me</a>.'
+  description: 'I''m a Glasgow-based <span>Software Developer</span>, I enjoy full-stack development and I''m equally at home with HTML, CSS and Javascript as I am with Java, PHP and MySQL. Start <a class="smoothscroll" href="#about">scrolling</a> and learn more <a class="smoothscroll" href="#about">about me</a>.'
 copyright:
   -
     line: 'Copyright Chris Connor &copy;'
@@ -49,7 +49,7 @@ social:
     url: 'skype:cjconnor24?chat'
     icon: skype
 twitter:
-  id: '657554810648948736'
+  id: '27506588'
   domId: tw-widget1
   maxTweets: 3
   enableLinks: 'true'

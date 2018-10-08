@@ -52,4 +52,5 @@ portfolio:
         details: 'https://www.youtube.com/watch?v=RS5ECyDs7II'
 ---
 
-#Below is a small selection of my recent work
+#Portfolio
+Below is a small collection of some of my recent work.

@@ -32,7 +32,7 @@ form:
 
     buttons:
         - type: submit
-          value: Submit
+          value: Send Message
           class: submit
 
     process:
@@ -61,7 +61,6 @@ content:
             - _about
             - _resume
             - _portfolio
-            - _call
             - _testimonials
             - _contact
 ---

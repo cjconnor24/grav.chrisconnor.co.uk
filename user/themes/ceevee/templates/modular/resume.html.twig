@@ -12,7 +12,7 @@
                     <h3>{{ item.title }}</h3>
                     {% endif %}
                     {% if item.info or item.date %}
-                    <p class="info">{{ item.info }} <span>&bull;</span> {% if item.grade %}{{ item.grade }} <span>&bull;</span>{% endif %} <em class="date">{{ item.date }}</em></p>
+                    <p class="info">{{ item.info }} <span>&bull;</span> {% if item.grade %} <span class="grade">{{ item.grade }}</span> <span>&bull;</span>{% endif %} <em class="date">{{ item.date }}</em>{% if item.location %}<span>&bull;</span> <span class="location"><i class="fa fa-map-marker"></i> {{ item.location }}</span>{% endif %}</p>
                     {% endif %}
                     <p>
                         {{ item.description }}
@@ -22,7 +22,7 @@
                     <div class="bars">
                         <ul class="skills">
                             {% for skill in item.skills %}
-                            <li><span class="bar-expand" style="width: {{ skill.level }}%;animation: {{ skill.name|lower }} 2s ease;"></span><em>{{ skill.name }}</em></li>
+                            <li><span class="bar-expand" style="width: {{ skill.level }}%;"></span><em>{{ skill.name }}</em></li>
                             {% endfor %}
                         </ul>
                     </div>
