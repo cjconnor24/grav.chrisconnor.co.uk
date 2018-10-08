@@ -23,14 +23,14 @@
         </div>
         {% for item in page.header.portfolio %}
         <div id="modal-{{ loop.index }}" class="popup-modal mfp-hide">
-            <img class="scale-with-grid" src="{{ page.media[item.img].url }}" alt="" />
+            <a href="{{ item.details }}" target="_blank" title="View on YouTube"><img class="scale-with-grid" src="{{ page.media[item.img].url }}" alt="" /></a>
             <div class="description-box">
                 <h4>{{ item.title }}</h4>
                 <p>{{ item.content }}.</p>
                 <span class="categories"><i class="fa fa-tag"></i>{{ item.tags }}</span>
             </div>
             <div class="link-box">
-                <a href="{{ item.details }}">Details</a>
+                <a href="{{ item.details }}" target="_blank"><i class="fa fa-eye"></i> View</a>
                 <a class="popup-modal-dismiss">Close</a>
             </div>
         </div>

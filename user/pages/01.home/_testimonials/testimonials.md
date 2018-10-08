@@ -1,8 +1,11 @@
 ---
 title: Testimonials
 testimonials:
-    - author: Steve Jobs
-      content: Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.  If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
-    - author: Mr. Adobe
-      content: This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.
+    -
+        author: 'Carl Carter'
+        content: 'Chris is an exceptionally hard working individual, he has an appetite for learning. He is focussed on delivery against brief and never fails to do so.'
+    -
+        author: 'Linsey Wilson'
+        content: 'Although only working with Chris for a short while I can safely say I would recommend his work. I trained and managed Chris and he quickly picked up the Web2Print technology becoming an integral part of the team. His design and technical skills in both Web and Print are always very well designed and implemented.'
 ---
+
