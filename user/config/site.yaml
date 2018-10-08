@@ -28,6 +28,9 @@ social:
   #   url: '#'
   #   icon: facebook
   # -
+    url: 'https://github.com/cjconnor24'
+    icon: github
+  -  
     url: 'https://www.linkedin.com/in/cjconnor24/'
     icon: linkedin
   -
