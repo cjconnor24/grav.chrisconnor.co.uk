@@ -1,18 +1,18 @@
 ---
 title: About
 media_order: profilepic.jpg
-title2: 'Contact Details'
-address:
-    -
-        line: 'Chris Connor'
-email:
-    -
-        address: chris@chrisconnor.co.uk
+# title2: 'Contact Details'
+# address:
+#     -
+#         line: 'Chris Connor'
+# email:
+#     -
+#         address: chris@chrisconnor.co.uk
 buttons:
     -
         url: '#'
         icon: download
-        text: 'Download Resume'
+        text: 'Download CV'
 ---
 
 ## About Me
