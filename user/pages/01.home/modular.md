@@ -1,5 +1,5 @@
 ---
-title: Ceevee
+title: Chris Connor
 menu: home
 
 form:

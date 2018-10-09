@@ -22,7 +22,7 @@ sections:
         css_class: work
         items:
             -
-                title: 'Spectrum Digital Print Solutions (Dubai)'
+                title: 'Spectrum Digital Print Solutions'
                 info: 'Print Technology Manager'
                 location: 'Dubai, U.A.E.'
                 date: 'October 2011 - Present'
