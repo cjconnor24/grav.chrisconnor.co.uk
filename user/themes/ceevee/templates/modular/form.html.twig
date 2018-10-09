@@ -8,11 +8,11 @@
         </div>
     </div>
     <div class="row">
-        <div class="eight columns">
+        <div class="twelve columns">
             {{ page.content }}
             {% include "forms/form.html.twig" %}
         </div>
-        <aside class="four columns footer-widgets">
+        {# <aside class="four columns footer-widgets">
             {% for widget in page.header.widgets %}
             <div class="widget widget_contact">
                 <h4>{{ widget.title }}</h4>
@@ -28,6 +28,6 @@
                 <div id="tw-widget1">
                 </div>
             </div>
-        </aside>
+        </aside> #}
     </div>
 </section>

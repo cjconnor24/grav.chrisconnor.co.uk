@@ -8,11 +8,11 @@ media_order: profilepic.jpg
 # email:
 #     -
 #         address: chris@chrisconnor.co.uk
-buttons:
-    -
-        url: '#'
-        icon: download
-        text: 'Download CV'
+# buttons:
+#     -
+#         url: '#'
+#         icon: download
+#         text: 'Download CV'
 ---
 
 ## About Me
@@ -23,6 +23,6 @@ In 2011 I relocated to the United Arab Emirates, taking up a position as technol
 
 I’ve always had a passion for programming and software development, having tinkered with hobbyist projects for over 15 years. In my technology management role I was given the opportunity to actively apply my knowledge on a number of small projects within the business, ranging from workflow and automation programming through to developing internal web applications.
 
-Having witnessed first-hand a noticeable shift towards online ordering and the role software solutions have to play in transforming businesses across industries, I returned to Scotland in 2015 to pursue a degree in software development, with the ultimate goal of pursuing a career in the field.
+Having witnessed first-hand a noticeable shift towards online ordering and the role software solutions have to play in transforming businesses across industries, I returned to Scotland in 2015 to pursue a degree in Software Development, with the ultimate goal of pursuing a career in the field.
 
-Having graduated from City of Glasgow College in 2016 with a Higher National Diploma in the top percentile of the cohort, I am now entering my final year at Glasgow Caledonian University Scotland and am currently on track to graduate June 2019 with a projected first-class honours degree in Computing (Software Engineering).
+Having graduated from City of Glasgow College in 2016 with a Higher National Diploma in the top percentile of the cohort, I am now entering my final year at Glasgow Caledonian University Scotland and am currently on track to graduate July 2019 with a projected first-class honours degree in Computing (Software Engineering).

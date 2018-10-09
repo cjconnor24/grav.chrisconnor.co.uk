@@ -20,7 +20,7 @@ header:
   description: 'I''m a Glasgow-based <span>Software Developer</span>, I enjoy full-stack development and I''m equally at home with HTML, CSS and Javascript as I am with Java, PHP and MySQL. Start <a class="smoothscroll" href="#about">scrolling</a> and learn more <a class="smoothscroll" href="#about">about me</a>.'
 copyright:
   -
-    line: 'Copyright Chris Connor &copy;'
+    line: 'Chris Connor &bull;'
   # -
   #   line: 'Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a>'
 social:
