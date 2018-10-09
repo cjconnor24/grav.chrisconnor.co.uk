@@ -17,6 +17,15 @@
                     <p>
                         {{ item.description }}
                     </p>
+                    {% if item.modules %}
+                    <p><strong>Modules</strong></p>
+                    <ul>
+                    {% for module in item.modules %}
+                        <li>{{ module }}</li>
+                    {% endfor %}
+                    </ul>
+                    
+                    {% endif %}
 
                     {% if item.skills %}
                     <div class="bars">
