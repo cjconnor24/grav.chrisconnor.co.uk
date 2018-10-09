@@ -18,12 +18,12 @@
                         {{ item.description }}
                     </p>
                     {% if item.modules %}
-                    <p><strong>Modules</strong></p>
-                    <ul>
-                    {% for module in item.modules %}
-                        <li>{{ module }}</li>
-                    {% endfor %}
-                    </ul>
+                        
+                        <p class="module-list"><i class="fa fa-graduation-cap"></i> 
+                        {% for module in item.modules %}
+                            <span class="module">{{ module }}</span> 
+                        {% endfor %}
+                        </p>
                     
                     {% endif %}
 

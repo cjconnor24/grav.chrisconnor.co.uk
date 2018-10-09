@@ -285,6 +285,22 @@ ul#nav li.current a { color: #11ABB1; }
    margin-top: 6px;
 }
 
+
+#resume .module-list .module {
+    display:inline-block;
+    font-size:65%;
+    background: #11ABB0;
+    color: #FFF;
+    line-height:20px;
+    border-radius:5px;
+    margin:0 5px 5px 0;padding:0 10px!important;
+    transition:0.25s;
+}
+#resume .module-list .module:hover {
+    /* transform:scale(1.2); */
+    background:#066;
+}
+
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
