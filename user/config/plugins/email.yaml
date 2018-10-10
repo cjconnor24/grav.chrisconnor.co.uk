@@ -9,7 +9,9 @@ mailer:
     server: localhost
     port: 25
     encryption: none
+    user: cjconnor24
+    password: G1a5g0w27!
   sendmail:
-    bin: /usr/sbin/sendmail
+    bin: '/usr/local/sbin/sendmail -bs'
 content_type: text/html
 debug: false
