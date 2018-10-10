@@ -1,13 +1,15 @@
 enabled: true
-from: your@email.here
-to: your@email.here
+from: no-reply@chrisconnor.co.uk
+from_name: 'Chris Connor'
+to: chris@chrisconnor.co.uk
+to_name: 'Chris Connor'
 mailer:
-  engine: mail
+  engine: sendmail
   smtp:
     server: localhost
     port: 25
     encryption: none
-    user: ''
-    password: ''
   sendmail:
-    bin: '/usr/sbin/sendmail'
+    bin: /usr/sbin/sendmail
+content_type: text/html
+debug: false
