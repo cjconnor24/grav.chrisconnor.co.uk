@@ -12,6 +12,6 @@ mailer:
     user: ''
     password: ''
   sendmail:
-    bin: '/usr/sbin/sendmail -bs'
+    bin: '/usr/local/sbin/sendmail -bs'
 content_type: text/html
 debug: false
