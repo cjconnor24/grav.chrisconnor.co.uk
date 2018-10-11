@@ -17,7 +17,7 @@ sections:
                     - 'IT Project Management'
                     - 'Web Platform Development'
                     - 'Integrated Team Project'
-                    - 'Research, Professionalism and Ethics'                    
+                    - 'Research, Professionalism and Ethics'
                     - 'Client-side Software Development'
                     - 'Secure Software Development'
                     - 'Mobile Development'
@@ -31,7 +31,7 @@ sections:
                 modules:
                     - 'Object-Oriented Analysis and Design'
                     - 'Object-Oriented Programming'
-                    - 'Event-driven Programming'                    
+                    - 'Event-driven Programming'
                     - 'Android Development'
                     - 'Professionalism and Ethics'
                     - 'Big Data'
@@ -67,38 +67,35 @@ sections:
                 description: 'Throughout my time at College and University, I''ve had the opportunity to grow and build upon my skill set. I am constantly learning and evolving my skills based on industry trends and I enjoy enrolling in online courses and building small, personal projects to keep my knowledge fresh and current. Below is a brief snapshot of some of the tools and technologies I have worked with recently.'
                 skills:
                     -
-                        name: 'HTML / CSS'
-                        level: 90
+                        name: JAVA
+                        level: 67
                     -
-                        name: SASS
-                        level: 70
+                        name: PHP
+                        level: 75
+                    -
+                        name: 'C#'
+                        level: 65
+                    -
+                        name: C
+                        level: 60
+                    -
+                        name: Shell
+                        level: 65
                     -
                         name: Javascript
                         level: 75
                     -
-                        name: Angular
-                        level: 60
-                    -
-                        name: Java
-                        level: 70
-                    -
-                        name: PHP
-                        level: 70
-                    -
-                        name: 'C#'
-                        level: 45
-                    -
                         name: MySQL
-                        level: 70
-    -
-    #         title: Hobbies
-    #         css_class: hobbies
-    #         items:
-    #             -
-    #                 title: null
-    #                 info: null
-    #                 date: null
-    #                 description: 'Throughout my time at College and University, I''ve had the opportunity to grow and build upon my skill set. I am constantly learning and evolving my skills based on industry trends and I enjoy enrolling in online courses and building small, personal projects to keep my knowledge fresh and current. Below is a brief snapshot of some of the tools and technologies I have worked with recently.'
-    # -
+                        level: 72
+                    -
+                        name: HTML
+                        level: 85
+                    -
+                        name: CSS
+                        level: 85
+                    -
+                        name: AWS
+                        level: 40
+    - null
 ---
 

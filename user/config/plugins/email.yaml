@@ -4,13 +4,13 @@ from_name: 'Chris Connor'
 to: chris@chrisconnor.co.uk
 to_name: 'Chris Connor'
 mailer:
-  engine: sendmail
+  engine: smtp
   smtp:
     server: localhost
     port: 25
     encryption: none
-    user: cjconnor24
-    password: G1a5g0w27!
+    user: website@chrisconnor.co.uk
+    password: W3b51t31962
   sendmail:
     bin: '/usr/local/sbin/sendmail -bs'
 content_type: text/html
