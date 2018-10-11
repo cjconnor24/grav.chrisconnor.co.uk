@@ -10,13 +10,13 @@
       {% if site.social %}
       <ul class="social">
         {% for item in site.social %}
-        <li><a href="{{ item.url }}"><i class="fa fa-{{ item.icon }}"></i></a></li>
+        <li><a href="{{ item.url }}" target="_blank" title="{{ item.icon|capitalize }}"><i class="fa fa-{{ item.icon }}"></i></a></li>
         {% endfor %}
       </ul>
       {% endif %}
     </div>
   </div>
   <p class="scrolldown">
-    <a class="smoothscroll" href="#about"><i class="icon-down-circle"></i></a>
+    <a class="smoothscroll" href="#about" title="Scroll Down"><i class="icon-down-circle"></i></a>
   </p>
 </header>
