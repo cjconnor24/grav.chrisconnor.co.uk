@@ -1111,6 +1111,12 @@ call-to-action .button {
   font-size: 13px;
 }
 
+#form-result {
+  text-align:center;
+  background: #FFF;
+  padding:1em;
+}
+
 #message-warning, #message-success {
   display: none;
   background: #0F0F0F;
