@@ -3,7 +3,7 @@ title: Chris Connor
 menu: home
 
 form:
-    name: my-nice-form
+    name: contact-form
     action: /home
     fields:
         - name: name
@@ -48,7 +48,7 @@ form:
             dateformat: Ymd-His-u
             extension: txt
             body: "{% include 'forms/data.txt.twig' %}"
-        - message: Thank you for your feedback!
+        - message: Thank you for getting in contact!
         - display: thankyou
 
 onpage_menu: true
