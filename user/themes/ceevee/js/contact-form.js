@@ -17,7 +17,10 @@ $(document).ready(function(){
             data: form.serialize(),
             success: function(result) {
                 // Inject the result in the HTML
-                $('#form-result').html(result);
+                $('#form-result').slideDown('fast').html(result);
+				$.find('input[type=text], textarea').forEach(function(x){
+					x.value = '';
+				});
             }
         });
     });

@@ -1115,6 +1115,8 @@ call-to-action .button {
   text-align:center;
   background: #FFF;
   padding:1em;
+	margin:0 0 1em 0;
+display:none;
 }
 
 #message-warning, #message-success {
