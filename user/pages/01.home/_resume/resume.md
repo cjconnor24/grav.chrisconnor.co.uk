@@ -70,14 +70,14 @@ sections:
                         name: JAVA
                         level: 67
                     -
-                        name: PHP
-                        level: 75
+                        name: C
+                        level: 60
                     -
                         name: 'C#'
                         level: 65
                     -
-                        name: C
-                        level: 60
+                        name: PHP
+                        level: 67
                     -
                         name: Shell
                         level: 65
